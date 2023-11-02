@@ -1,3 +1,17 @@
+## Next.js CRUD with Server Actions
+
+This repo contains the code to follow my tutorial on implementing Server Actions in Next.js for a fully functional C.R.U.D. application.
+
+This tutorail works with:
+- Next.js 13/14 with server actions enabled (if working with Next.js 13)
+- a Mongodb Database. The tutorial is implemented on a Mongodb database, but using another database it's just a matter of changing the connection and queries
+- Tailwind CSS + Daisy UI for style
+- React Hook Form for form implementation
+- Zod for client side validation
+- mongoose to manage Schema and DB connection
+- React Icons for styling
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
