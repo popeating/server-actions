@@ -4,7 +4,7 @@ This repo contains the code to follow my tutorial on implementing Server Actions
 
 This tutorail works with:
 - Next.js 13/14 with server actions enabled (if working with Next.js 13) https://nextjs.org/
-- a Mongodb Database. The tutorial is implemented on a Mongodb database, but using another database it's just a matter of changing the connection and queries. [You can get a free Mongodb database here(https://www.mongodb.com/products/platform/cloud)]
+- a Mongodb Database. The tutorial is implemented on a Mongodb database, but using another database it's just a matter of changing the connection and queries. [You can get a free Mongodb database here](https://www.mongodb.com/products/platform/cloud)
 - Tailwind CSS + Daisy UI for style. https://tailwindcss.com/ https://daisyui.com/
 - React Hook Form for form implementation https://react-hook-form.com/
 - Zod for client side validation https://zod.dev/
