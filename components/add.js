@@ -59,7 +59,7 @@ function Add() {
           setMopen(true);
         }}
       >
-        Aggiungi Nuova
+        Add New
       </button>
       <dialog id="add_modal" className="modal" open={mopen}>
         <div className="modal-box w-2/3 max-w-3xl ">
