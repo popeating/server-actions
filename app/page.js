@@ -13,7 +13,9 @@ export default async function Home({ params, searchParams }) {
         {contacts ? <Table contacts={contacts} /> : 'null'}
       </div>
       <Pagination pages={pages} />
-      <div>{contacts && <Add />}</div>
+      <div>
+        <Add />
+      </div>
     </div>
   );
 }

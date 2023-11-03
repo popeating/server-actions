@@ -104,14 +104,14 @@ function Edit({ eopen, setEopen, contact }) {
                   doReset();
                 }}
               >
-                Annulla
+                Cancel
               </div>
               <button
                 className="btn btn-primary"
                 disabled={isPending}
                 // onClick={() => setMopen(false)}
               >
-                Salva
+                Save
               </button>
             </div>
           </form>
