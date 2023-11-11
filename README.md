@@ -1,6 +1,6 @@
 ## Next.js CRUD with Server Actions
 
-This repo contains the code to follow my tutorial on implementing Server Actions in Next.js for a fully functional C.R.U.D. application.
+This repo contains the code to follow my tutorial on implementing Server Actions in Next.js for a fully functional C.R.U.D. application. https://medium.com/p/8b5989367554
 
 This tutorail works with:
 - Next.js 13/14 with server actions enabled (if working with Next.js 13) https://nextjs.org/
